@@ -8,8 +8,9 @@
 This is a codeblock
 ```
 ```mermaid
-Flowchart LR
+flowchart LR
     one --> two
+    two --> three
     three --> four
 
 ```    
