@@ -1,4 +1,4 @@
 # These are my notes
 
-###table of contents
+### table of contents
 - [Application Deployment Notes](./deployment.md)
